@@ -100,5 +100,13 @@ $17 ConversionDesign Starter Kit offer:
 
 ---
 
-## Recommended next step
-Turn the **AFTER template** into an LP-agent blueprint (`conversion-design-pdp`) with a niche-adaptation layer (swap hero emotion, benefit icons, certification set, bundle logic per vertical), and wire the **BEFORE anti-patterns** in as the agent's pre-build audit rubric + Proof Scorecard checks.
+## → Built: the LP-Agent knowledge base
+The teardown above has been fused with Scale House's full persuasion stack into a knowledge base the Landing Page Agent loads on every build:
+
+**[`/knowledge-base`](./knowledge-base/)** — start with the **[`conversion-design-pdp` Master Blueprint](./knowledge-base/00-conversion-design-pdp-blueprint.md)**, backed by four deep-reference layers:
+- [01 Conversion Psychology & CRO](./knowledge-base/01-conversion-psychology-cro.md) (25+ biases → on-page placement)
+- [02 Persuasion Copywriting](./knowledge-base/02-persuasion-copywriting.md) (awareness stages, headline formulas, VoC)
+- [03 Page Structure, Build & Instrumentation](./knowledge-base/03-page-structure-build-instrumentation.md) (mobile, CWV, forms, attribution, A/B)
+- [04 Buyer Psychology & Niche Matrix](./knowledge-base/04-buyer-psychology-niche-matrix.md) (traffic source × 7-vertical adaptation)
+
+The blueprint turns the CW AFTER-structure into a repeatable spec (7 pre-build inputs → section-by-section build → niche adaptation → QA gates), and wires the CW BEFORE anti-patterns in as the agent's pre-build audit rubric + pre-ship Proof Scorecard.
